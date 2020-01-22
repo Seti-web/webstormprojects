@@ -1,0 +1,19 @@
+div{
+    width:100%;
+    height:100%;
+    background-color: darkblue;
+    color: greenyellow;
+    font-size:large;
+}
+
+.text{
+    color: red;
+    font-size: 75px;
+    margin-top:0px;
+}
+
+img{
+    margin-top: -70px;
+    width: 75%;
+    height: 50%;
+}
