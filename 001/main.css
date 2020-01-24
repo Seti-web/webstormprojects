@@ -17,4 +17,10 @@ header{
     border: 3px solid darkblue;
     padding: 4px;
 }
-img{ width: 100% }
+
+img{ width: 100%; }
+
+area {
+    display: none;
+    
+}
