@@ -1,0 +1,60 @@
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+header nav,header nav a ,header svg{
+    display: flex;
+}
+header a {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+header nav a {
+    padding: 0 1rem;
+}
+
+
+header div, header nav {
+    width: 300px;
+    height: 80%;
+    margin: 0 1rem;
+    display: flex;
+    align-items: center;
+}
+header nav{
+    justify-content: space-between;
+}
+
+header nav a {
+    padding: 0 1rem;
+}
+header nav a:hover {
+    border-radius: 5px;
+    background-color: dimgray;
+}
+
+
+#idx-atf {
+    background-image: url("../img/background-photo.jpg");
+}
+
+#idx-atf > div {
+    height: 18vh;
+}
+.idx-center-spacebetween{
+    padding-top: 0;
+}
+
+#idx-atf h1 {
+    font-size: 3rem;
+}
+
+#idx-atf h3 {
+    margin-top: .4rem;
+}
+footer{
+    display: none;
+}
